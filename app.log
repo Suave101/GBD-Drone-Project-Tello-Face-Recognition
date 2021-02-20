@@ -1,0 +1,22 @@
+14-Feb-21 22:29:12 - ERROR - System Suddenly Stopped: OpenCV(4.4.0) C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-9d_dfo3_\opencv\modules\imgproc\src\resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+14-Feb-21 22:32:40 - ERROR - System Suddenly Stopped: OpenCV(4.4.0) C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-9d_dfo3_\opencv\modules\imgproc\src\resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+14-Feb-21 22:34:44 - ERROR - System Suddenly Stopped: OpenCV(4.4.0) C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-9d_dfo3_\opencv\modules\imgproc\src\resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+14-Feb-21 22:37:41 - ERROR - System Suddenly Stopped: OpenCV(4.4.0) C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-9d_dfo3_\opencv\modules\imgproc\src\resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+15-Feb-21 10:19:06 - ERROR - System Suddenly Stopped: OpenCV(4.4.0) C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-9d_dfo3_\opencv\modules\imgproc\src\resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+15-Feb-21 10:43:05 - WARNING - Drone Video Stream Not Visible
+15-Feb-21 10:43:05 - WARNING - Drone Communication Capability Disabled
+15-Feb-21 10:45:39 - WARNING - Drone Video Stream Not Visible
+15-Feb-21 10:45:39 - WARNING - Drone Communication Capability Disabled
+15-Feb-21 19:40:56 - ERROR - System Suddenly Stopped: OpenCV(4.4.0) C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-9d_dfo3_\opencv\modules\imgproc\src\resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+15-Feb-21 19:43:01 - WARNING - Drone Video Stream Not Visible
+15-Feb-21 19:43:01 - WARNING - Drone Communication Capability Disabled
+15-Feb-21 19:47:41 - ERROR - System Suddenly Stopped: OpenCV(4.4.0) C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-9d_dfo3_\opencv\modules\imgproc\src\resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+15-Feb-21 19:49:50 - WARNING - Drone Video Stream Not Visible
+15-Feb-21 19:49:50 - WARNING - Drone Communication Capability Disabled
